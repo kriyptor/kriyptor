@@ -1,5 +1,7 @@
-# Namastey!😄 <a href="https://www.linkedin.com/in/shivanshu-kashyap-258431192/">this.(Shivanshu Kashyap)</a>
+# Namastey, Good to see you!😄 <a href="https://www.linkedin.com/in/shivanshu-kashyap-258431192/">this.(Shivanshu Kashyap)</a>
 ## A learner on a journey of learning!!!
+<!--# Let's connect
+http://i.imgur.com/tXSoThF.png (twitter icon with padding)-->
 
 <!--
 **kriyptor/kriyptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
