@@ -5,6 +5,7 @@
 http://i.imgur.com/tXSoThF.png (twitter icon with padding)-->
 # Let's connect :handshake:
 [![Twitter Badge](https://img.shields.io/badge/-@ShivanshuKash11-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivanshuKash11)](https://twitter.com/ShivanshuKash11)  [![Linkedin Badge](https://img.shields.io/badge/-Shivanshu_Kashyap-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivanshu-kashyap-258431192/)](https://www.linkedin.com/in/shivanshu-kashyap-258431192/)  [![Instagram Badge](https://img.shields.io/badge/-@Shivanshu_Kashyap-red?style=circle&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/shivanshu__kashyap/)](https://www.instagram.com/shivanshu__kashyap/) [![Gmail Badge](https://img.shields.io/badge/-kashyapshivanshu27@gmail.com-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:kashyapshivanshu27@gmail.com)](mailto:kashyapshivanshu27@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931">
 
 <!--
 **kriyptor/kriyptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
