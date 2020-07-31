@@ -13,11 +13,11 @@ http://i.imgur.com/tXSoThF.png (twitter icon with padding)-->
 <img src="https://img.icons8.com/color/60/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/60/000000/git.png"/>
+<img src="https://img.icons8.com/color/60/000000/git.png"/><br>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/>
 </p>
-</a>
 <h2>GitHub Status :bar_chart:</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=#000000"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=#0000"></p>
 <!--
 **kriyptor/kriyptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
