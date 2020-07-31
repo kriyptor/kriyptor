@@ -9,14 +9,14 @@ http://i.imgur.com/tXSoThF.png (twitter icon with padding)-->
 <p align="center"><img src="https://img.icons8.com/color/60/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/60/000000/css3.png"/>
 <img src="https://img.icons8.com/color/60/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/60/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/60/000000/python.png"/>
 <img src="https://img.icons8.com/color/60/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/60/000000/git.png"/>
-<img src="https://img.icons8.com/office/60/000000/console.png"/>
+<img src="https://img.icons8.com/color/60/000000/nodejs.png"/>
 </p>
-<img src="https://www.flaticon.com/free-icon/instagram_2111463"/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=#000000"></p>
 
 <!--
