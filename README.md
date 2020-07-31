@@ -7,13 +7,15 @@ http://i.imgur.com/tXSoThF.png (twitter icon with padding)-->
  [![Twitter Badge](https://img.shields.io/badge/-@ShivanshuKash11-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivanshuKash11)](https://twitter.com/ShivanshuKash11)  [![Linkedin Badge](https://img.shields.io/badge/-Shivanshu_Kashyap-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivanshu-kashyap-258431192/)](https://www.linkedin.com/in/shivanshu-kashyap-258431192/)  [![Instagram Badge](https://img.shields.io/badge/-@Shivanshu_Kashyap-red?style=circle&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/shivanshu__kashyap/)](https://www.instagram.com/shivanshu__kashyap/) [![Gmail Badge](https://img.shields.io/badge/-kashyapshivanshu27@gmail.com-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:kashyapshivanshu27@gmail.com)](mailto:kashyapshivanshu27@gmail.com) 
 <h2>Skills, That I know!:wrench:</h2>
 <p align="center"><img src="https://img.icons8.com/color/60/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/60/000000/css3.png"/>
-<img src="https://img.icons8.com/color/60/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/60/000000/python.png"/>
-<img src="https://img.icons8.com/color/60/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/60/000000/git.png"/><br>
+<img src="https://img.icons8.com/color/55/000000/css3.png"/>
+<img src="https://img.icons8.com/color/55/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/55/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/55/000000/python.png"/>
+<img src="https://img.icons8.com/color/55/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/55/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/55/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/55/000000/git.png"/>
+<img src="https://img.icons8.com/color/55/000000/nodejs.png"/><br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/>
 </p>
 <h2>GitHub Status :bar_chart:</h2>
