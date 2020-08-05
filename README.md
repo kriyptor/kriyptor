@@ -23,7 +23,7 @@
 ## GitHub Status :bar_chart:
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&hide_border=true"/>
-<img align="right" width = "410px" height="200px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/>
+<img align="right" width = "380px" height="200px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/>
 </p>
 <!--
 **kriyptor/kriyptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
