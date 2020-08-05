@@ -2,11 +2,8 @@
 ### Let's Connect :handshake:
 [![Twitter Badge](https://img.shields.io/badge/-@ShivanshuKash11-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShivanshuKash11)](https://twitter.com/ShivanshuKash11)  [![Linkedin Badge](https://img.shields.io/badge/-Shivanshu_Kashyap-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivanshu-kashyap-258431192/)](https://www.linkedin.com/in/shivanshu-kashyap-258431192/)  [![Instagram Badge](https://img.shields.io/badge/-@Shivanshu_Kashyap-red?style=circle&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/shivanshu__kashyap/)](https://www.instagram.com/shivanshu__kashyap/) [![Gmail Badge](https://img.shields.io/badge/-kashyapshivanshu27@gmail.com-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:kashyapshivanshu27@gmail.com)](mailto:kashyapshivanshu27@gmail.com)
 
-## A learner on a journey of learning!!! :walking: 
-
-
 ## Skills, That I know!:wrench:
-<p align="left"><img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
