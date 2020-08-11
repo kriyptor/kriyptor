@@ -21,8 +21,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&hide_border=true"/>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/><br>
-<img src="https://komarev.com/ghpvc/?username=kriyptor">
 </p>
+
+## 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kriyptor" width=150px/>
+</p>
+
 <!--
 **kriyptor/kriyptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
