@@ -19,8 +19,9 @@
 
 ## GitHub Status :bar_chart:
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&hide_border=true"/>
-<img   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=kriyptor">
 </p>
 <!--
 **kriyptor/kriyptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +38,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
