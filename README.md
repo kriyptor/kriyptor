@@ -25,7 +25,7 @@
 
 ## 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kriyptor" width=150px/>
+<img src="https://komarev.com/ghpvc/?username=kriyptor" width=160px/>
 </p>
 
 <!--
