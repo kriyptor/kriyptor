@@ -22,12 +22,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&hide_border=true"/>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/><br>
 </p>
-
-## 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kriyptor" width=160px/>
 </p>
 
+## 
+
+
+<p align="center">
+  <img src="https://img.icons8.com/fluent/30/000000/hearts.png"/>
+  <img src="https://img.icons8.com/color/30/000000/peace-symbol.png"/>
+  <img src="https://img.icons8.com/color/30/000000/pray.png"/>
+  </p>
 <!--
 **kriyptor/kriyptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
